@@ -1,0 +1,50 @@
+body{
+	background-image: url(struckaxiom.png);
+	background-attachment: fixed;
+	z-index:0;
+}
+
+a:{
+	color: white;
+	
+}
+a:hover{
+	color:#FCFF00;
+	text-decoration: none;
+}
+
+.container.menu {
+	width: 100%;
+	height: 50px;
+	background-color: #005AFF;
+	margin-right: 0px;
+	margin-left: 0px;
+	opacity: 1;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-indent: 0;
+	padding-top: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	position: fixed;
+	z-index: 1;
+	font-weight: bold;
+}
+.div.row.articulos {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+}
+
+.footer{
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background-color: #005AFF;
+	width: 100%;
+	height: 215px;
+	color: #FFFFFF;
+	padding-left: 0px;
+	padding-right: 124px;
+	left: 0px;
+}
